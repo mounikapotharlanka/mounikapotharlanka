@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="a_wide_modern_tech_themed_banner_cover_image_for.png" width="100%" alt="Mounika GitHub Banner">
+</p>
+
+---
 # Hi, I'm Mounika Potharlanka! 👋
 
 ### 🚀 Python Developer | AI & ML Enthusiast | B.Tech CSE (AI & ML)
